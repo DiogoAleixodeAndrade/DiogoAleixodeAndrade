@@ -136,9 +136,9 @@ Responsive and modern web projects created to improve interface development, com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoAleixodeAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://readme-stats-fast.vercel.app/api?username=DiogoAleixodeAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAleixodeAndrade&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=DiogoAleixodeAndrade&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -166,19 +166,15 @@ Responsive and modern web projects created to improve interface development, com
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/d.aleixo2002/" target="_blank">
+<a href="mailto:d.aleixo2002@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<a href="https://www.instagram.com/d.aleixo2002/" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <strong>Email:</strong> d.aleixo2002@gmail.com
-</p>
 
 ---
 
