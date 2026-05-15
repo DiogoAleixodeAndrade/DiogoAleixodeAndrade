@@ -1,146 +1,161 @@
-# Hi, I’m Diogo Aleixo de Andrade 👋
+<h1 align="center">Hi 👋, I'm Diogo Aleixo de Andrade</h1>
 
-![Production Engineering](https://img.shields.io/badge/Production%20Engineering-0A66C2?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-F2C811?style=for-the-badge)
-![Web Development](https://img.shields.io/badge/Web%20Development-181717?style=for-the-badge)
+<h3 align="center">
+Production Engineer | Data & Business Intelligence | Front-End Developer in Progress
+</h3>
 
-- Production Engineer | Data, Automation & Web Development
-- Excel, Power BI, VBA, Power Query, Python and process improvement
-- Building real-world projects with JavaScript, TypeScript, React, Next.js, Ruby and Python
-- Based in Rio de Janeiro, Brazil
-
----
-
-### Currently Learning
-
-- React, Next.js and TypeScript
-- Ruby programming and backend fundamentals
-- Python for automation and data analysis
-- Databases and application structure
-- Power BI, DAX and data visualization
-- Clean code, GitHub workflow and portfolio organization
-
----
-
-## About me
-
-I'm a Production Engineer with a strong interest in technology, data, automation and process improvement.
-
-My background connects business operations, administrative routines, data analysis and problem solving. I have hands-on experience with Excel, VBA, Power Query, Power BI, dashboards, reports and process automation.
-
-I'm currently expanding my skills in web development and programming, creating practical projects focused on real problems, organization systems, dashboards and useful applications.
-
-I enjoy building solutions that make daily work easier, more organized and more efficient. My goal is to combine engineering, data and software development to create projects that generate real value.
-
----
-
-### Tech Stack
-
-#### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-004B8D?style=for-the-badge&logo=microsoft&logoColor=white)
-
-#### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Data, BI & Automation
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-
-#### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
-
-#### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### Featured Projects
-
-#### PokeBinder
-
-A web application for managing Pokémon card collections, focused on organization, Pokédex visualization and collection tracking.
-
-**Techs:** Next.js, TypeScript, TailwindCSS
-
-#### Diet and Protein Tracker
-
-A personal app focused on tracking protein, water and meal goals, designed to support organization and healthier routines.
-
-**Techs:** Web Development, Python, calculation logic, database planning
-
-#### Outpatient Call Monitor
-
-A patient call display system integrated with Microsoft Access and VBA automation, created to improve workflow and visibility in an outpatient environment.
-
-**Techs:** VBA, Microsoft Access, HTML, CSS, JavaScript
-
-#### Ruby Study Projects
-
-Projects developed while learning Ruby, focused on programming logic, code organization and portfolio building.
-
-**Techs:** Ruby
-
-#### Data and Automation Projects
-
-Projects focused on data control, dashboards, reports and process automation.
-
-**Techs:** Python, Excel, Power BI, VBA, Power Query
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DiogoAleixodeAndrade&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAleixodeAndrade&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### GitHub Trophy
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiogoAleixodeAndrade&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### Let’s Connect
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/DiogoAleixodeAndrade">
-    <img src="https://img.shields.io/badge/GitHub-DiogoAleixodeAndrade-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/diogo-aleixo-de-andrade/">
-    <img src="https://img.shields.io/badge/LinkedIn-Diogo%20Aleixo%20de%20Andrade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_aleixodg_">
-    <img src="https://img.shields.io/badge/Instagram-@_aleixodg_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=DiogoAleixodeAndrade&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-> Technology is not just about writing code.  
-> It is about understanding problems, organizing solutions and building something that truly helps people and processes.
+## 👨‍💻 About Me
+
+I'm a **Production Engineer** from Brazil, building my path in technology by combining **business vision, data analysis, automation, and software development**.
+
+I have experience with administrative processes, hospital billing, contracts, operational support, budget control, Excel automation, Power BI, VBA, Power Query, and data-driven reports.
+
+Now, I'm expanding my skills into programming and web development, creating real projects for my portfolio using technologies like **Python, JavaScript, TypeScript, React, Next.js, Ruby, SQL, and GitHub**.
+
+My goal is to build solutions that solve real problems, improve processes, and generate value through technology.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- Building front-end portfolio projects
+- Learning and practicing Ruby through complete projects
+- Creating useful apps with real-world purpose
+- Improving my GitHub profile and repositories
+- Studying Python, SQL, data analysis, and web development
+- Developing projects that connect business, data, and technology
+
+---
+
+## 🧠 Main Interests
+
+- Data Analysis
+- Business Intelligence
+- Process Automation
+- Front-End Development
+- Web Applications
+- Dashboards and Reports
+- Software projects with real business value
+- Technology applied to operations and management
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" alt="Ruby"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+
+</div>
+
+---
+
+## 📊 Data & Business Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=visualbasic&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🧾 PokéBinder
+
+A Pokémon card collection control project focused on organization, Pokédex tracking, and portfolio development.
+
+### 💻 Front-End Portfolio Projects
+
+Projects created to improve my skills in layout, responsiveness, components, user experience, and modern web development.
+
+### 💎 Ruby Study Project
+
+A complete Ruby project built step by step to practice programming logic, organization, classes, methods, and clean code.
+
+### 📊 Business & Data Automation
+
+Projects and studies focused on Excel, Power BI, Power Query, VBA, process automation, and operational reports.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoAleixodeAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAleixodeAndrade&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoAleixodeAndrade&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/DiogoAleixodeAndrade" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/diogo-aleixo-de-andrade/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/d.aleixo2002/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## ✨ Personal Quote
+
+<p align="center">
+  <i>
+    "Technology is not just about writing code. It's about solving real problems, improving processes, and creating value."
+  </i>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Always learning. Always building. Always improving.
+
+</div>
