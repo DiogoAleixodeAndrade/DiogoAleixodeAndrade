@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Diogo Aleixo de Andrade</h1>
+<h1 align="center">Hi, I'm Diogo Aleixo de Andrade 👋</h1>
 
 <h3 align="center">
-Production Engineer | Data & Business Intelligence | Front-End Developer in Progress
+Production Engineer | Data Analyst | Business Intelligence | Automation & Web Development
 </h3>
 
 <p align="center">
+  I combine engineering, business analysis, data, and programming to build solutions that improve processes, support decisions, and create real value.
+</p>
+
+<p align="center">
   <a href="https://github.com/DiogoAleixodeAndrade">
-    <img src="https://komarev.com/ghpvc/?username=DiogoAleixodeAndrade&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=DiogoAleixodeAndrade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -14,41 +18,40 @@ Production Engineer | Data & Business Intelligence | Front-End Developer in Prog
 
 ## 👨‍💻 About Me
 
-I'm a **Production Engineer** from Brazil, building my path in technology by combining **business vision, data analysis, automation, and software development**.
+I'm a **Production Engineer** with experience in **operations, administrative processes, hospital billing, contracts, budget control, data analysis, dashboards, and process automation**.
 
-I have experience with administrative processes, hospital billing, contracts, operational support, budget control, Excel automation, Power BI, VBA, Power Query, and data-driven reports.
+My background gives me a strong business vision, and I use technology to turn complex information into practical solutions.
 
-Now, I'm expanding my skills into programming and web development, creating real projects for my portfolio using technologies like **Python, JavaScript, TypeScript, React, Next.js, Ruby, SQL, and GitHub**.
+I have been developing projects using **Python, JavaScript, TypeScript, React, Next.js, Ruby, SQL, Excel, VBA, Power Query, and Power BI**, always focused on solving real problems and building a strong professional portfolio.
 
-My goal is to build solutions that solve real problems, improve processes, and generate value through technology.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- Building front-end portfolio projects
-- Learning and practicing Ruby through complete projects
-- Creating useful apps with real-world purpose
-- Improving my GitHub profile and repositories
-- Studying Python, SQL, data analysis, and web development
-- Developing projects that connect business, data, and technology
+Currently, I am improving my skills in **software development, data analysis, business intelligence, and automation**, connecting my engineering background with technology.
 
 ---
 
-## 🧠 Main Interests
+## 🎯 Professional Focus
 
-- Data Analysis
-- Business Intelligence
+- Data Analysis and Business Intelligence
 - Process Automation
+- Operational Dashboards and Reports
 - Front-End Development
 - Web Applications
-- Dashboards and Reports
-- Software projects with real business value
-- Technology applied to operations and management
+- SQL and Database Structure
+- Python for Data and Automation
+- Business-oriented technology solutions
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 What Makes My Profile Different
+
+I am not only learning how to code.
+
+I already understand how companies work, how processes fail, how reports are used, how data supports decisions, and how technology can improve daily operations.
+
+My goal is to build solutions that are not only functional, but also useful for business, management, and decision-making.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -68,7 +71,7 @@ My goal is to build solutions that solve real problems, improve processes, and g
 
 ---
 
-## 📊 Data & Business Tools
+## 📊 Data, BI & Automation Tools
 
 <div align="center">
 
@@ -82,23 +85,50 @@ My goal is to build solutions that solve real problems, improve processes, and g
 
 ---
 
+## 💼 Experience Highlights
+
+- Experience with operational and administrative routines
+- Knowledge of hospital billing processes and healthcare data
+- Report creation and data organization
+- Budget, forecast, and actual analysis
+- Excel automation using formulas, Power Query, and VBA
+- Dashboard and indicator development
+- Process improvement mindset from Production Engineering
+- Development of portfolio projects focused on real-world problems
+
+---
+
 ## 📌 Featured Projects
 
 ### 🧾 PokéBinder
 
-A Pokémon card collection control project focused on organization, Pokédex tracking, and portfolio development.
+A web application created to organize and track a Pokémon card collection, with a focus on usability, data structure, and portfolio development.
 
-### 💻 Front-End Portfolio Projects
+**Technologies:** Next.js, TypeScript, React, CSS, GitHub
 
-Projects created to improve my skills in layout, responsiveness, components, user experience, and modern web development.
+---
 
 ### 💎 Ruby Study Project
 
-A complete Ruby project built step by step to practice programming logic, organization, classes, methods, and clean code.
+A complete Ruby project created to practice programming logic, methods, classes, object-oriented programming, and clean code organization.
 
-### 📊 Business & Data Automation
+**Technologies:** Ruby, Git, GitHub
 
-Projects and studies focused on Excel, Power BI, Power Query, VBA, process automation, and operational reports.
+---
+
+### 📊 Business & Data Automation Projects
+
+Projects focused on improving workflows, organizing data, automating reports, and creating more efficient business processes.
+
+**Technologies:** Excel, Power Query, VBA, Power BI, SQL
+
+---
+
+### 🌐 Front-End Portfolio Projects
+
+Responsive and modern web projects created to improve interface development, component structure, layout, and user experience.
+
+**Technologies:** HTML, CSS, JavaScript, TypeScript, React, Next.js
 
 ---
 
@@ -129,7 +159,7 @@ Projects and studies focused on Excel, Power BI, Power Query, VBA, process autom
 <div align="center">
 
 <a href="https://github.com/DiogoAleixodeAndrade" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/diogo-aleixo-de-andrade/" target="_blank">
@@ -144,11 +174,19 @@ Projects and studies focused on Excel, Power BI, Power Query, VBA, process autom
 
 ---
 
-## ✨ Personal Quote
+## 📫 Contact
+
+<p align="center">
+  <strong>Email:</strong> d.aleixo2002@gmail.com
+</p>
+
+---
+
+## ✨ Professional Statement
 
 <p align="center">
   <i>
-    "Technology is not just about writing code. It's about solving real problems, improving processes, and creating value."
+    I believe technology becomes truly valuable when it solves real problems, improves processes, and helps people make better decisions.
   </i>
 </p>
 
@@ -156,6 +194,6 @@ Projects and studies focused on Excel, Power BI, Power Query, VBA, process autom
 
 <div align="center">
 
-### 🚀 Always learning. Always building. Always improving.
+### 🚀 Building my career at the intersection of Engineering, Data, Automation, and Software Development.
 
 </div>
